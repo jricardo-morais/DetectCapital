@@ -28,3 +28,8 @@ Para executar a aplicação, siga os seguintes passos:
 3. Abra o terminal ou prompt de comando na pasta raiz do projeto.
 4. Executar o seguinte comando: dotnet run --project .\DetectCapital\.
 5. A aplicação será executadae exibirá o output do teste.
+
+## Tecnologias utilizadas
+
+- **Linguagem**: C#  
+- **Framework**: .NET 9  
